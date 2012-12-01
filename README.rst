@@ -1,10 +1,11 @@
 .. Maintainer: Jared Forsyth <jared@jaredforsyth.com>
 .. Source: http://github.com/jabapyth/vim-phpdebug
 
-This plugin creates an integrated debugging environment in VIM.
+This plugin creates an integrated debugging environment in VIM. It has been 
+forked from Jared Forsyth's vim_debug project:
+(http://jaredforsyth.com/projects/vim-debug/)
 
 Features:
-
 - integration with xdebug
 - step (into/over/out)
 - live stack view
@@ -12,6 +13,7 @@ Features:
 
 **New:**
 
+- TODO: multi-langauge command support.
 - watch expressions!
 - live scope view
 
